@@ -12,7 +12,7 @@ App de Android realizada en Kotlin utilizando arquitectura MVVM. La app se conec
 ![](doggz_.gif)
 
 ## Arquitectura
-![](arquitectura.png)
+![](arquitectura_.png)
 
 ## Librerías
  - **Material:** Cardview y estilo de botón
